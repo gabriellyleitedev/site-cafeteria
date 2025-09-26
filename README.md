@@ -8,7 +8,7 @@ Projeto de site em HTML e CSS feito para prática de front-end.
 - Uso de cores e tipografia harmoniosa
 - Estrutura organizada com seções claras
 
-- ## Tecnologias:
+## Tecnologias:
 - HTML
 - CSS
 
